@@ -1,2 +1,6 @@
 # FACE-RECOGNITION
 Detect Real Time Face Emotions 
+
+----CONTRIBUTE-----
+
+USING DEEPFACE MODULE
